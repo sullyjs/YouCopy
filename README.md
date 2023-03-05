@@ -2,8 +2,11 @@
 You copy is  a metaphoric puzzle game about traversing obstacles without losing sight of yourself in the process.
 
 Me. S. James Steward - Coder / Artist
+
 Michael Berthaud - Programmer/Designer
+
 Miguel Dumaroas - Environment Artist
+
 Calbert Warner - Composer/Sound Designer
 
 ![GM2qiv](https://user-images.githubusercontent.com/57135911/222974868-aca89acf-4a50-43b0-b659-ac259278383d.png)
