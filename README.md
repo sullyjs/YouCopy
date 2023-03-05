@@ -1,5 +1,6 @@
 # YouCopy
 You copy is  a metaphoric puzzle game about traversing obstacles without losing sight of yourself in the process. A gamejam in 2021.
+- https://globalgamejam.org/2021/games/you-copy-1
 
 Me. S. James Steward - Coder / Artist
 
