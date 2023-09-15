@@ -1,5 +1,5 @@
 # YouCopy
-You copy is  a metaphoric puzzle game about traversing obstacles without losing sight of yourself in the process. A gamejam in 2021. I helped coding this in unity C# and created a pixel art piece, as well as character models in the game.
+You copy is a metaphoric puzzle game made with Unity about traversing obstacles without losing sight of yourself in the process. A gamejam in 2021. I helped coding this in unity C# and created a pixel art piece, as well as character models in the game.
 - https://sullyjs.itch.io/youcopy
 
 Me. S. James Steward - Programmer/Artist
